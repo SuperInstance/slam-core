@@ -1,5 +1,5 @@
 [package]
-name = "slam-core"
+name = "robo-slam-core"
 version = "0.1.0"
 edition = "2021"
 description = "Simultaneous Localization and Mapping: occupancy grids, particle filter localization, landmark detection"
