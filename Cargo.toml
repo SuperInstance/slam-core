@@ -1,0 +1,12 @@
+[package]
+name = "slam-core"
+version = "0.1.0"
+edition = "2021"
+description = "Simultaneous Localization and Mapping: occupancy grids, particle filter localization, landmark detection"
+license = "MIT"
+repository = "https://github.com/SuperInstance/slam-core"
+keywords = ["slam", "localization", "mapping", "robotics", "particle-filter"]
+categories = ["science::robotics", "algorithms"]
+readme = "README.md"
+
+[dependencies]
